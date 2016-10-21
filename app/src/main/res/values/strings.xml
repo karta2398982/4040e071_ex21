@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">4040e071_ex21</string>
+    <string name="etname">User Name</string>
+    <string name="etpassword">Password</string>
+    <string name="etphone">Phone</string>
+    <string name="etage">Age</string>
+    <string name="ClearAllFields">clear all fields</string>
+
+</resources>
